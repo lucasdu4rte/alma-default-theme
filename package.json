@@ -1,5 +1,5 @@
 {
-  "name": "alma-icons-list",
+  "name": "alma-default-theme",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@dasa-health/alma-icons": "^0.5.0",
+    "@dasa-health/alma-react": "^1.0.0",
+    "@dasa-health/alma-tokens": "^0.9.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
